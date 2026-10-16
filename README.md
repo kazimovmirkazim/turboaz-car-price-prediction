@@ -1,5 +1,3 @@
-![cover](images/cover.png)
-
 # Turbo.az Car Price Prediction
 
 ## Project Overview
